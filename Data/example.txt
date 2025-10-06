@@ -1,0 +1,15 @@
+abc 测试
+def 输入法
+ghi Windows
+jkl TSF
+123 一二三
+456 四五六
+abc1 测试1
+abc2 测试2
+abc3 测试3
+def1 输入法1
+def2 输入法2
+def3 输入法3
+ghi1 Windows1
+ghi2 Windows2
+ghi3 Windows3
